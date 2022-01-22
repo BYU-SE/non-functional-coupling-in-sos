@@ -25,7 +25,7 @@ This repository contains the Quartermaster implementation of the proposed analyt
 
 ## Data
 
-Includes `case-study.zip`, which contains the raw data from simulating the four models: original, A, B, C.
+Includes summarized raw data from simulating the four models: original, A, B, C. The complete raw data, which includes more than the selected six non-functional properties can be recomputed by running the model.
 
 ## Quartermaster Model
 
